@@ -1,9 +1,6 @@
 # GitHub Profile Search
 
-A stunning, modern web application to search and explore GitHub user profiles with a premium glassmorphic design.
-
-![React](https://img.shields.io/badge/React-18.3.1-61dafb?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+A stunning, modern web application to search and explore GitHub user profiles.
 
 ## Features
 
