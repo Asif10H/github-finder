@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Base Styles */
+ 
 * {
   margin: 0;
   padding: 0;
@@ -24,7 +24,7 @@ body {
   min-height: 100vh;
 }
 
-/* Animated Background */
+ 
 body::before {
   content: '';
   position: fixed;
@@ -50,7 +50,7 @@ body::before {
   }
 }
 
-/* Glassmorphism Utilities */
+ 
 @layer components {
   .glass {
     @apply bg-blue-50/50 backdrop-blur-[10px] border border-blue-100;
